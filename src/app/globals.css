@@ -1,0 +1,6 @@
+/* styles/globals.css */
+
+/* Tailwind CSS'in temel stillerini ekleyin */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
